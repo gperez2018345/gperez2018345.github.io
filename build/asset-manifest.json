@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gperez2018345/PruebaLevelUp/static/css/main.178ff371.css",
+    "main.js": "/gperez2018345/PruebaLevelUp/static/js/main.3cb0272b.js",
+    "index.html": "/gperez2018345/PruebaLevelUp/index.html",
+    "main.178ff371.css.map": "/gperez2018345/PruebaLevelUp/static/css/main.178ff371.css.map",
+    "main.3cb0272b.js.map": "/gperez2018345/PruebaLevelUp/static/js/main.3cb0272b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.178ff371.css",
+    "static/js/main.3cb0272b.js"
+  ]
+}
